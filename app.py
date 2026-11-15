@@ -84,7 +84,7 @@ with col2:
         with st.spinner("Running OWASP Top 10 Prompt Injection attacks..."):
             for atk in attacks:
                 bot_res = client.models.generate_content(
-                    model="gemini-2.5-flash",
+                    model="gemini-3.0-flash",
                     contents=atk,
                     config=types.GenerateContentConfig(system_instruction=target_instruction, temperature=0.2)
                 ).text.strip()
