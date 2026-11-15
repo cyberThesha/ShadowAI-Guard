@@ -1,0 +1,8 @@
+timestamp,employee_id,department,domain,data_uploaded_kb
+2026-11-15 09:12:05,EMP-101,Finance,google.com,12
+2026-11-15 09:15:22,EMP-104,HR,chat.openai.com,450
+2026-11-15 09:30:10,EMP-102,IT,github.com,85
+2026-11-15 10:05:44,EMP-109,Finance,api.anthropic.com,1250
+2026-11-15 10:20:11,EMP-105,Marketing,linkedin.com,30
+2026-11-15 11:02:33,EMP-104,HR,chat.deepseek.com,890
+2026-11-15 11:45:00,EMP-112,Legal,claude.ai,2100
